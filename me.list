@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,oneoro.de,DIRECT
 DOMAIN-SUFFIX,oneoro.de,DIRECT
 IP-CIDR6,2408:8756:2cee:f002::1:15a,DIRECT,no-resolve
 IP-CIDR6,240e:97c:400c:803::1:15a,DIRECT,no-resolve
@@ -8,6 +6,7 @@ IP-CIDR,192.168.0.1/32,DIRECT,no-resolve
 IP-CIDR,8.217.135.233/32,DIRECT,no-resolve
 IP-CIDR,192.168.0.0/16,Home,no-resolve
 
+DOMAIN-SUFFIX,local
 IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
 IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
